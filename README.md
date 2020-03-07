@@ -1,5 +1,5 @@
-# BotW-NX-Cheats
-A collection of Breath of the Wild (NX Edition) cheats. These are all for v1.6.0
+# NX-Cheats
+A collection of Breath of the Wild (NX Edition) cheats. These are all for v1.6.0. Working on Pokemon Mystery Dungeon DX codes.
 
 
 List of important links referring to the game:
@@ -21,4 +21,4 @@ https://github.com/MrCheeze/botw-tools
 
 https://github.com/DarkFlare69/SXCheatTool
 
-These links are not only for cheat code creation, but BotW mod creation as well.
+These links are not only for cheat code creation, but BotW (and other) mod creation as well.

@@ -1,8 +1,7 @@
 # NX-Cheats
-A collection of Breath of the Wild (NX Edition) cheats. These are all for v1.6.0. Working on Pokemon Mystery Dungeon DX codes.
+A collection of Nintendo Switch cheats. These are all for custom firmware users, so please educate yourself on the use of homebrew before writing an issue. If any of these cheats do not operate properly, please write an issue in GitHub.
 
-
-List of important links referring to the game:
+List of important links referring to cheat code creation of mod creation:
 (Any possible link rot is not my fault)
 
 https://www.marcrobledo.com/savegame-editors/zelda-botw/
@@ -21,4 +20,4 @@ https://github.com/MrCheeze/botw-tools
 
 https://github.com/DarkFlare69/SXCheatTool
 
-These links are not only for cheat code creation, but BotW (and other) mod creation as well.
+These links can be used for cheat code creation and mod creation.

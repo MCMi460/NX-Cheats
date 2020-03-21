@@ -1,5 +1,5 @@
 # NX-Cheats
-A collection of Nintendo Switch cheats. These are all for custom firmware users, so please educate yourself on the use of homebrew before writing an issue. If any of these cheats do not operate properly, please write an issue in GitHub.
+A collection of Nintendo Switch cheats. These are all for custom firmware users, so please educate yourself on the use of homebrew before writing an issue. I have not tested all of these codes, so if any of these cheats do not operate properly, please write an issue in GitHub.
 
 List of important links referring to cheat code creation of mod creation:
 (Any possible link rot is not my fault)
@@ -21,3 +21,5 @@ https://github.com/MrCheeze/botw-tools
 https://github.com/DarkFlare69/SXCheatTool
 
 These links can be used for cheat code creation and mod creation.
+
+DISCLAIMER: I did not create most of these codes. I only helped in the production of BotW codes. This repo is purely meant for the collection of various games' cheat codes on the Nintendo Switch.

@@ -1,4 +1,8 @@
 # NX-Cheats
+
+
+<h1><b>Nintendo Switch Hacking Guide</b></h1>
+
 A collection of Nintendo Switch cheats. These are all for custom firmware users, so please educate yourself on the use of homebrew before writing an issue. I have not tested all of these codes, so if any of these cheats do not operate properly, please write an issue in GitHub. I am not to be put at fault if any cheat codes damage your game or get you banned. Basic common sense should be applied when cheating:
 A) If it gives you an unfair advantage (effectively all of the cheats), don't bring it online.
 B) Keep saves to prevent mishaps.

@@ -7,7 +7,9 @@
 
 <h2><b>NX Cheats Disclaimer</b></h2>
 
-<p4>I did not create most of these codes. I only helped in the production of BotW codes. This repo is purely meant for the collection of various games' 'cheat codes' on the Nintendo Switch - not to offend anyone because of the use of software modding. These are all for custom firmware users, so please educate yourself on the use of </p4><a href="https://switchbrew.org/wiki/Main_Page">homebrew</a><p4> before writing an issue. I have not tested all of these codes, so if any of these cheats do not operate properly, please write an issue in GitHub. I am not to be put at fault if any cheat codes damage your game or get you banned. Basic common sense should be applied when cheating:</p4>
+I did not create most of these codes. I only helped in the production of BotW codes. This repo is purely meant for the collection of various games' 'cheat codes' on the Nintendo Switch - not to offend anyone because of the use of software modding. These are all for custom firmware users, so please educate yourself on the use of <a href="https://switchbrew.org/wiki/Main_Page">homebrew</a> before writing an issue. I have not tested all of these codes, so if any of these cheats do not operate properly, please write an issue in GitHub. I am not to be put at fault if any cheat codes damage your game or get you banned.
+
+Basic common sense should be applied when cheating:
 
 A) If it gives you an unfair advantage (effectively all of the cheats), don't bring it online.
 
@@ -18,20 +20,20 @@ B) Keep saves and <a href="https://nh-server.github.io/switch-guide/extras/nandr
 List of important links referring to cheat code creation of mod creation:
 (Any possible link rot is not my fault)
 
-https://www.marcrobledo.com/savegame-editors/zelda-botw/
+<a href="https://www.marcrobledo.com/savegame-editors/">Savedata Editors for Switch Games</a> (Psst... check out <a href="https://github.com/FlagBrew/Checkpoint/releases">Checkpoint</a> too.)
 
-https://gbatemp.net/threads/botw-item-names-for-pandaonsmacks-trainer.463959/
+<a href="https://gbatemp.net/threads/botw-item-names-for-pandaonsmacks-trainer.463959/">BotW Item Names for Mod Creation</a>
 
-https://github.com/FlagBrew/Sharkive/tree/master/switch/01007EF00011E000
+<a href="https://github.com/FlagBrew/Sharkive/tree/master/switch">Sharkive Repo</a>
 
-https://geckocodes.org/index.php?arsenal=3
+<a href="https://geckocodes.org/index.php?arsenal=3">Converters that are more than useful</a>
 
-https://webcfw.sdsetup.com/
+<a href="https://webcfw.sdsetup.com/">A Payload Injector via a Chromium Web Browser</a>
 
-https://github.com/leoetlino/botw-re-notes
+<a href="https://github.com/leoetlino/botw-re-notes">BotW Reverse Engineering Stuff</a>
 
-https://github.com/MrCheeze/botw-tools
+<a href="https://github.com/MrCheeze/botw-tools">BotW Tools</a>
 
-https://github.com/DarkFlare69/SXCheatTool
+<a href="https://github.com/DarkFlare69/SXCheatTool">A Cheat Code Creation Tool</a>
 
 These links can be used for cheat code creation and mod creation.

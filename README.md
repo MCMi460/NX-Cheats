@@ -7,9 +7,13 @@
 
 <h2><b>NX Cheats Disclaimer</b></h2>
 
-<p4>A collection of Nintendo Switch cheats - I did not code most of these. These are all for custom firmware users, so please educate yourself on the use of </p4><a href="https://switchbrew.org/wiki/Main_Page">homebrew</a><p4> before writing an issue. I have not tested all of these codes, so if any of these cheats do not operate properly, please write an issue in GitHub. I am not to be put at fault if any cheat codes damage your game or get you banned. Basic common sense should be applied when cheating:
+<p4>I did not create most of these codes. I only helped in the production of BotW codes. This repo is purely meant for the collection of various games' 'cheat codes' on the Nintendo Switch - not to offend anyone because of the use of software modding. These are all for custom firmware users, so please educate yourself on the use of </p4><a href="https://switchbrew.org/wiki/Main_Page">homebrew</a><p4> before writing an issue. I have not tested all of these codes, so if any of these cheats do not operate properly, please write an issue in GitHub. I am not to be put at fault if any cheat codes damage your game or get you banned. Basic common sense should be applied when cheating:</p4>
+
 A) If it gives you an unfair advantage (effectively all of the cheats), don't bring it online.
-B) Keep saves to prevent mishaps.</p4>
+
+B) Keep saves and <a href="https://nh-server.github.io/switch-guide/extras/nandrestore/">NAND backups</a> to prevent mishaps.
+
+<h3><b>Links</b></h3>
 
 List of important links referring to cheat code creation of mod creation:
 (Any possible link rot is not my fault)
@@ -31,5 +35,3 @@ https://github.com/MrCheeze/botw-tools
 https://github.com/DarkFlare69/SXCheatTool
 
 These links can be used for cheat code creation and mod creation.
-
-DISCLAIMER: I did not create most of these codes. I only helped in the production of BotW codes. This repo is purely meant for the collection of various games' cheat codes on the Nintendo Switch.

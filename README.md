@@ -17,7 +17,7 @@ B) Keep saves and <a href="https://nh-server.github.io/switch-guide/extras/nandr
 
 <h3><b>Links</b></h3>
 
-List of important links referring to cheat code creation of mod creation:
+List of important links referring to cheat code creation or mod creation:
 (Any possible link rot is not my fault)
 
 <a href="https://www.marcrobledo.com/savegame-editors/">Savedata Editors for Switch Games</a> (Psst... check out <a href="https://github.com/FlagBrew/Checkpoint/releases">Checkpoint</a> too.)

@@ -5,6 +5,8 @@
 
 <a href="https://switch.homebrew.guide/">Click here</a>
 
+<a href="https://discord.gg/DdUUaap"><img src="https://discordapp.com/api/guilds/699728181841887363/embed.png"></a>
+
 <h2><b>NX Cheats Disclaimer</b></h2>
 
 I did not create most of these codes. I only helped in the production of BotW codes. This repo is purely meant for the collection of various games' 'cheat codes' on the Nintendo Switch - not to offend anyone because of the use of software modding. These are all for custom firmware users, so please educate yourself on the use of <a href="https://switchbrew.org/wiki/Main_Page">homebrew</a> before writing an issue. I have not tested all of these codes, so if any of these cheats do not operate properly, please write an issue in GitHub. I am not to be put at fault if any cheat codes damage your game or get you banned.

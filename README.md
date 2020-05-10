@@ -3,7 +3,7 @@
 
 <h1><b>Nintendo Switch Hacking Guide</b></h1>
 
-<a href="https://switch.homebrew.guide/">Click here</a> or <a href="https://mi460.dev/nxhacks/guide>here</a> for my guide.
+<a href="https://switch.homebrew.guide/">Click here</a> or <a href="https://mi460.dev/nxhacks/guide">here</a> for my guide.
 
 <h2><b>NX Cheats Disclaimer</b></h2>
 

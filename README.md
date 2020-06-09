@@ -22,7 +22,7 @@ List of important links referring to cheat code creation or mod creation:
 
 <a href="https://discord.gg/DdUUaap"><img src="https://discordapp.com/api/guilds/699728181841887363/embed.png"></a>
 
-<a href="https://mcmi460.github.io/nxhacks">This website's releases</a>
+<a href="https://mi460.dev/nxhacks">This website's releases</a>
 
 <a href="https://www.marcrobledo.com/savegame-editors/">Savedata Editors for Switch Games</a> (Psst... check out <a href="https://github.com/FlagBrew/Checkpoint/releases">Checkpoint</a> too.)
 

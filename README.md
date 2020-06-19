@@ -40,4 +40,8 @@ List of important links referring to cheat code creation or mod creation:
 
 <a href="https://github.com/DarkFlare69/SXCheatTool">A Cheat Code Creation Tool</a>
 
+<a href="https://zeldamods.org/wiki/Main_Page">Useful information regarding BotW's inner workings</a>
+
+<a href="https://sx.xecuter.com/download/cheathacker_guide.txt">Documentation for developing cheats on SX Firmware</a>
+
 These links can be used for cheat code creation and mod creation.

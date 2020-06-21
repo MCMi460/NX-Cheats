@@ -42,6 +42,10 @@ List of important links referring to cheat code creation or mod creation:
 
 <a href="https://zeldamods.org/wiki/Main_Page">Useful information regarding BotW's inner workings</a>
 
+<a href="https://gamebanana.com/tuts/13295">Tutorial on how to make custom animations for weapons in BotW</a>
+
+<a href="https://github.com/KillzXGaming/Switch-Toolbox/releases">Switch Toolbox</a>
+
 <a href="https://sx.xecuter.com/download/cheathacker_guide.txt">Documentation for developing cheats on SX Firmware</a>
 
-These links can be used for cheat code creation and mod creation.
+These links can be used for cheat code creation and mod creation. In case you haven't noticed, I sorta like BotW.
